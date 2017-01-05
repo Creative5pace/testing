@@ -1,6 +1,6 @@
 
 def myotherfuntion(myparam):
-    return "My other function is returning this value " + myparam
+    return "My other function is returning this new value " + myparam
 
 def myfunction(w, x, y, z):
     print(myotherfuntion(z))
