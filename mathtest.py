@@ -1,4 +1,6 @@
-
+#Potatoes are the best.
+#People who don't like potatoes are lesser beings not worth being called human.
+#Sick. Nasty. Dope.
 def myotherfuntion(myparam):
     return "My other function is returning this new value from Shawon" + myparam
 
